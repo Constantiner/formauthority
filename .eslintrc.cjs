@@ -78,7 +78,7 @@ module.exports = {
 			}
 		},
 		{
-			files: ["postcss.config.js", "tailwind.config.ts", "next.config.mjs", ".eslintrc.cjs"],
+			files: ["postcss.config.js", "tailwind.config.ts", "next.config.mjs", ".eslintrc.cjs", ".lintstagedrc.js"],
 			rules: {
 				"unicorn/filename-case": ["off"],
 				"no-restricted-syntax": ["off"],
