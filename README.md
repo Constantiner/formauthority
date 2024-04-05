@@ -1,5 +1,7 @@
 # formauthority
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 Next.js 🚀 TypeScript 🚀 React Hook Form 🚀 shadcn/ui 🚀 NextAuth 🚀 Zod 🚀 React Server Actions 🚀 TailwindCSS sample project
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
